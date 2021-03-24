@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+      background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+
+}
+#profile{
+    width: 500;
+        
+}
+#profile:hover{
+        width:520;
+    height: 300;
+    
+}
+.links{
+    font-size: 50;
+    color: red;
+    
+}
+#abouttext{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.line{
+ width:70;
+height: 10;
+background-color: black;
+    margin: auto;
+}
+#button{
+    cursor:pointer;
+}
